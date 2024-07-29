@@ -1,2 +1,2 @@
 # practice_git
-just fot fun
+just for fun
